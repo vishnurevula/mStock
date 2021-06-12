@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "v@gmail.com",
+      "password": "password"
+    },
+    {
+      "email": "gingkaHagane@gmail.com",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "email": "vishnurevula1499@gmail.com",
+      "password": "vishnu",
+      "id": 3
+    },
+    {
+      "email": "vishnurevula1499@gmail.com",
+      "password": "vishnu",
+      "id": 4
+    },
+    {
+      "email": "vishnurevula1499@gmail.com",
+      "password": "vishnu",
+      "id": 5
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "companyName": "Wipro",
+      "breifDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "currentStockPrice": 500
+    },
+    {
+      "id": 2,
+      "companyName": "Hewlett Packard",
+      "breifDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "currentStockPrice": 800
+    },
+    {
+      "id": 3,
+      "companyName": "Cognizant",
+      "breifDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "currentStockPrice": 1000
+    },
+    {
+      "id": 4,
+      "companyName": "Vistara",
+      "breifDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "currentStockPrice": 600
+    }
+  ]
+}
